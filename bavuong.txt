@@ -1,0 +1,158 @@
+
+PROJECT: WEBSITE CONTENT FOR CÔNG TY TNHH TM DV & SX BÁ VƯƠNG
+LANGUAGE: Vietnamese
+STYLE: Corporate / Professional
+GOAL: Convert this content into a modern company website
+
+==============================
+1. HERO SECTION
+==============================
+Company Name: CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ VÀ SẢN XUẤT BÁ VƯƠNG
+Short Slogan: Uy tín – Chất lượng – Phát triển bền vững
+
+Description:
+Với hơn 20 năm kinh nghiệm trong lĩnh vực nông sản và sắt thép xây dựng,
+Bá Vương tự hào là đối tác tin cậy của nhiều doanh nghiệp trong và ngoài nước.
+
+CTA Buttons:
+- Liên hệ ngay
+- Xem sản phẩm
+
+==============================
+2. ABOUT US
+==============================
+Title: Giới thiệu về Bá Vương
+
+Content:
+Công ty Bá Vương được thành lập chính thức vào ngày 27/11/2009.
+Với hơn 20 năm kinh nghiệm trong lĩnh vực nông nghiệp và thương mại vật liệu xây dựng,
+chúng tôi không ngừng mở rộng quy mô và nâng cao chất lượng dịch vụ.
+
+Thông qua việc ứng dụng công nghệ hiện đại cùng đội ngũ nhân sự giàu kinh nghiệm,
+Bá Vương cam kết mang đến sản phẩm đạt chuẩn chất lượng,
+đáp ứng những yêu cầu khắt khe nhất của khách hàng.
+
+Core Values Paragraph:
+Chất lượng – Uy tín – Chuyên nghiệp là những giá trị cốt lõi xuyên suốt quá trình hoạt động.
+
+==============================
+3. VISION & MISSION
+==============================
+Title: Tầm nhìn & Sứ mệnh
+
+Vision:
+Trở thành nhà cung cấp nguyên liệu sản xuất thức ăn chăn nuôi
+và sắt thép xây dựng uy tín, chuyên nghiệp hàng đầu Việt Nam
+và vươn tầm quốc tế.
+
+Mission:
+- Tận dụng tiềm lực con người Việt Nam để phát triển ngành nông nghiệp.
+- Tạo cơ hội việc làm cho nguồn lao động trong nước.
+- Thúc đẩy hiệu quả kinh doanh cho đối tác và khách hàng.
+- Góp phần phát triển bền vững kinh tế quốc gia.
+
+==============================
+4. CORE VALUES
+==============================
+Title: Giá trị cốt lõi
+
+CoreValue1:
+Name: Chân thật
+Description: Minh bạch trong giao tiếp và cùng phát triển với đối tác cũng như nội bộ công ty.
+
+CoreValue2:
+Name: Chuyên nghiệp
+Description: Thể hiện trong từng khâu sản xuất, kinh doanh và dịch vụ.
+
+CoreValue3:
+Name: Uy tín
+Description: Cam kết đảm bảo chất lượng sản phẩm đến tay khách hàng đúng tiêu chuẩn.
+
+==============================
+5. PRODUCTS - AGRICULTURE
+==============================
+Title: Sản phẩm nông nghiệp
+
+Product:
+Name: Bã mì xay
+Description: Gia công từ bã mì tươi đạt chuẩn với đội ngũ nhân công nhiều kinh nghiệm.
+
+Product:
+Name: Bã mì sấy
+Description: Sấy trực tiếp từ bã mì tươi bằng công nghệ hiện đại, đạt tiêu chuẩn quốc tế.
+
+Product:
+Name: Bã mì cục
+Description: Sản xuất bằng máy xay hiện đại, đảm bảo độ mịn và chất lượng đồng nhất.
+
+Product:
+Name: Mì lát
+Description: Đáp ứng linh hoạt nhu cầu sử dụng của khách hàng.
+
+==============================
+6. PRODUCTS - STEEL & MATERIALS
+==============================
+Title: Sắt thép xây dựng
+
+Product:
+Name: Sắt thép xây dựng
+Description: Cung cấp đa dạng mẫu mã từ các đối tác uy tín.
+
+Product:
+Name: Sắt ống
+Description: Cắt theo quy cách và nhu cầu cụ thể của khách hàng.
+
+Product:
+Name: Tole
+Description: Tole lạnh, tole kẽm, tole màu với chất lượng đảm bảo.
+
+Product:
+Name: Kẽm
+Description: Nhiều chủng loại phục vụ đa dạng mục đích sử dụng.
+
+==============================
+7. PARTNERS
+==============================
+Title: Đối tác tiêu biểu
+
+Agriculture Partners:
+- APFCO
+- ANT (Tập đoàn DaChan, Great Wall)
+- DABACO
+- C.P Việt Nam
+
+Steel Partners:
+- BlueScope
+- Vina One
+- Thép VAS
+- Tôn Tân Phước Khanh
+
+==============================
+8. MANAGEMENT
+==============================
+Title: Ban quản trị
+
+Leader:
+Name: Ông Trần Thiện Thanh
+Quote:
+“Uy tín luôn là giá trị quan trọng nhất trong quá trình làm việc.
+Đó là nền tảng giúp Bá Vương phát triển bền vững suốt gần 20 năm.”
+
+Leader:
+Name: Bà Hà Thị Út
+Quote:
+“Chúng tôi luôn hướng đến trải nghiệm mua hàng chuyên nghiệp,
+an tâm và uy tín nhất cho khách hàng.”
+
+==============================
+9. CONTACT
+==============================
+Title: Thông tin liên hệ
+
+Company: CÔNG TY TNHH TM DV & SX BÁ VƯƠNG
+Address: 17 tổ 10 Lê Duẩn, khu phố 4, Thị trấn Tân Châu, Tỉnh Tây Ninh
+Phone: 02763 875 785
+Email: bavuong177@gmail.com
+
+==============================
+END OF FILE
