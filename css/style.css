@@ -113,6 +113,7 @@
 }
 
 @media (max-width: 991.98px) {
+    
     .sticky-top.navbar-dark {
         position: relative;
     }
@@ -130,6 +131,18 @@
 
     .navbar-dark .navbar-brand img {
         max-height: 45px;
+    }
+
+    .navbar-dark .navbar-brand h1 {
+        font-size: 1.1rem !important; /* 80% of 1.5rem */
+    }
+
+    .title-mb {
+        font-size: 2.0rem !important;
+    }
+
+    .nav-logo-bv {
+        display: none;
     }
 }
 
